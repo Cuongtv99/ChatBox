@@ -62,7 +62,8 @@
             "responses": [
                 "Sorry, can't understand you",
                 "Please give me more info",
-                "Not sure I understand"
+                "Not sure I understand",
+                "Please, Ask again"
             ],
             "context": [
                 ""
